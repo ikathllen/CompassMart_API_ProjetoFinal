@@ -1,5 +1,5 @@
-# *_desafioFinal-part1_*
-Primeira parte do desafio final do programa de bolsa (NodeJS)
+# CompassMart API: Gerenciamento de Produtos e Usuários
+A CompassMart API foi desenvolvida como parte do programa de bolsas da Compass.uol, com o objetivo de oferecer um sistema eficiente para o gerenciamento de produtos e usuários em um ambiente de marketplace. Essa API fornece funcionalidades robustas para registro, atualização, consulta e exclusão de dados, garantindo segurança e escalabilidade através da autenticação via JWT.
 
 # Database
 - Cloud MongoDB (public)
